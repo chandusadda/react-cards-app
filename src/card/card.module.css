@@ -1,0 +1,17 @@
+.cardDiv {
+    min-width: 10rem;
+    margin-bottom: 2em;
+    height: 10rem;
+
+}
+
+.cardButton {
+    float: left;
+    border-radius: 0.7em;
+}
+
+.cardCheckBox {
+    margin-top: 0.6em;
+    float: right;
+    margin-right: 1em;
+}
